@@ -19,8 +19,7 @@ The source folder consists of the following methods:
 
 ###Main functions
 
-* preprocess.py
-
+* preprocess.py  
 This module takes as input the bi-text corpuses and the number of sentences. It returns the training and testing dataset along with the sentence pairs.
 
 Run the following command to create a random set of x sentences:
