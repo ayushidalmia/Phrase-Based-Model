@@ -8,9 +8,7 @@ A detailed report is available <a href="https://drive.google.com/file/d/0B87x7EO
 
 ##Requirements
 Python 2.6 or above
-
 GIZA++
-
 Language Model (IRSTLM)
 
 ##Problem
